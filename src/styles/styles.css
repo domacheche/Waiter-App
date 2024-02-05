@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  border-bottom: 2px solid grey;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
